@@ -83,7 +83,7 @@ class Automaton():
     def read_input(self, input_str):
         """Return the automaton's final configuration
 
-        If the input is rejected, the method raises a
+        If the input is  rejected, the method raises a
         RejectionException.
         """
         pass
